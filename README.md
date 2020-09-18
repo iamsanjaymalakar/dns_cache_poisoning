@@ -16,4 +16,7 @@ single physical machine.
 3. Attacker which also hosts fake DNS server 
 
 ## Report
-More details about the attack here.
+More details about the attack [here](https://github.com/iamsanjaymalakar/dns_cache_poisoning/blob/master/report.pdf).
+
+
+Watch the full [DNS cache poisoing](https://www.youtube.com/watch?v=-oCMsx-ntHE) video on <i class="fab fa-youtube"></i>YouTube.
